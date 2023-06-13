@@ -6,7 +6,11 @@
 
 # Overview
 
-“**Mogam Watche**r” is a **seat reservation app**. It is for the students using the Mogam, which is a space for korean students at RWTH. It is developed so that Mogam user can see the seat status and available seats in real time.
+“**Mogam Watche**r” is a **seat reservation app**, which is Web Application designed to facilitate pre-booking of seats to maintain social distancing during the pandemic
+
+It is for the students using the Mogam, which is a space for korean students at RWTH. It is developed so that Mogam user can see the seat status and available seats in real time.
+- Developed a real-time monitoring application using React to check seat availability and enable seat reservations for study rooms
+- Created an intuitive and user-friendly user interface by implementing a spatial mapping-based conceptual design
 
 # Co-developer
 
